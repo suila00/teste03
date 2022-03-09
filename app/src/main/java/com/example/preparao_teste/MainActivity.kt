@@ -15,7 +15,5 @@ class MainActivity : AppCompatActivity() {
         //Su added method C
 
         //Suila added method D
-
-        // add method E
     }
 }
